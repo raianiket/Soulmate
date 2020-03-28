@@ -55,29 +55,29 @@ $(document).ready(function(){
    	  </div>
    	  <div class="col-md-6 about_right">
    	  	<h1>About us</h1>
-   	  	<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+   	  	<p>User can get information regarding their dream life partner at his/her home at his/her convenience..</p>
    	  	<div class="accordation">
 		   <div class="jb-accordion-wrapper">
-				<div class="jb-accordion-title">Accordion 1 <button type="button" class="jb-accordion-button" data-toggle="collapse" data-target="#accordion-1-"><i class="fa fa-angle-down"> </i></button></div>
+				<div class="jb-accordion-title">Tap once <button type="button" class="jb-accordion-button" data-toggle="collapse" data-target="#accordion-1-"><i class="fa fa-angle-down"> </i></button></div>
 				<p><!-- /.accordion-title -->
 				</p><div id="accordion-1-" class="jb-accordion-content collapse in" style="height: auto;">
-				<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae...</p>
+				<p>	This application also provides a search utility which helps those users who have a certain criteria of qualities in mind to make online matrimonial easier...</p>
 				</div>
 				<p><!-- /.collapse --></p>
 			</div>
 			<div class="jb-accordion-wrapper">
-				<div class="jb-accordion-title">Accordion2 <button type="button" class="jb-accordion-button" data-toggle="collapse" data-target="#accordion2-"><i class="fa fa-angle-down"> </i></button></div>
+				<div class="jb-accordion-title">Tap once <button type="button" class="jb-accordion-button" data-toggle="collapse" data-target="#accordion2-"><i class="fa fa-angle-down"> </i></button></div>
 				<p><!-- /.accordion-title -->
 				</p><div id="accordion2-" class="jb-accordion-content collapse ">
-				<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt </p>
+				<p>Since internet is a pivot for modern business, our project which is based on internet paves a path for modernization in trade...</p>
 				</div>
 				<p><!-- /.collapse --></p>
 			</div>
 			<div class="jb-accordion-wrapper">
-				<div class="jb-accordion-title">Accordion3<button type="button" class="jb-accordion-button" data-toggle="collapse" data-target="#accordion3"><i class="fa fa-angle-down"> </i></button></div>
+				<div class="jb-accordion-title">Tap once<button type="button" class="jb-accordion-button" data-toggle="collapse" data-target="#accordion3"><i class="fa fa-angle-down"> </i></button></div>
 				<p><!-- /.accordion-title -->
 				</p><div id="accordion3" class="jb-accordion-content collapse ">
-				<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt </p>
+				<p>It helps the user by providing profiles of perspective “Bride” or “Groom” and other information regarding them online....</p>
 				</div>
 				<p><!-- /.collapse --></p>
 			</div>
@@ -96,7 +96,7 @@ $(document).ready(function(){
 				<figure class="featured-thumbnail">
 					<img src="images/a1.jpg" class="img-responsive" alt=""/>
 				</figure>
-				<div><a href="#">Aenean nonummy hendrerit mau phasellu porta. Fusce suscipit varius mi sed. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui.…</a>
+				<div><a href="#">The main objective of Matrimonial Web Application is to provide Grooms and Brides with excellent matchmaking experience by exploring the opportunities and resources to meet true potential partner. Keeping our objective in mind, we have created a world-renowned online matchmaking services Soulmate.com that will touch the souls of millions of people all over the globe.…</a>
 				<div class="clearfix"></div>
 				</div>
 			</blockquote>
@@ -107,7 +107,7 @@ $(document).ready(function(){
 				<figure class="featured-thumbnail">
 					<img src="images/a2.jpg" class="img-responsive" alt=""/>
 				</figure>
-				<div><a href="#">Aenean nonummy hendrerit mau phasellu porta. Fusce suscipit varius mi sed. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui.…</a>
+				<div><a href="#">The main objective of Matrimonial Web Application is to provide Grooms and Brides with excellent matchmaking experience by exploring the opportunities and resources to meet true potential partner. Keeping our objective in mind, we have created a world-renowned online matchmaking services Soulmate.com that will touch the souls of millions of people all over the globe..…</a>
 				<div class="clearfix"></div>
 				</div>
 			</blockquote>
@@ -121,7 +121,7 @@ $(document).ready(function(){
 				<figure class="featured-thumbnail">
 					<img src="images/a1.jpg" class="img-responsive" alt=""/>
 				</figure>
-				<div><a href="#">Aenean nonummy hendrerit mau phasellu porta. Fusce suscipit varius mi sed. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui.…</a>
+				<div><a href="#">The main objective of Matrimonial Web Application is to provide Grooms and Brides with excellent matchmaking experience by exploring the opportunities and resources to meet true potential partner. Keeping our objective in mind, we have created a world-renowned online matchmaking services Soulmate.com that will touch the souls of millions of people all over the globe..…</a>
 				<div class="clearfix"></div>
 				</div>
 			</blockquote>
@@ -132,7 +132,7 @@ $(document).ready(function(){
 				<figure class="featured-thumbnail">
 					<img src="images/a2.jpg" class="img-responsive" alt=""/>
 				</figure>
-				<div><a href="#">Aenean nonummy hendrerit mau phasellu porta. Fusce suscipit varius mi sed. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui.…</a>
+				<div><a href="#">The main objective of Matrimonial Web Application is to provide Grooms and Brides with excellent matchmaking experience by exploring the opportunities and resources to meet true potential partner. Keeping our objective in mind, we have created a world-renowned online matchmaking services Soulmate.com that will touch the souls of millions of people all over the globe..…</a>
 				<div class="clearfix"></div>
 				</div>
 			</blockquote>
@@ -157,8 +157,8 @@ $(document).ready(function(){
 					</div>
 			    </figure>
 			    <div class="desc">
-			    	<h4><a href="#">Perspiciatis</a></h4>
-			    	<p>Lorem ipsum dolor sit amet,</p>
+			    	<h4><a href="#">Aniket</a></h4>
+			    	<p>PHP DEVELOPER,</p>
 			    </div>
 			 </li>
 	       </ul>
@@ -175,8 +175,8 @@ $(document).ready(function(){
 					</div>
 			    </figure>
 			    <div class="desc">
-			    	<h4><a href="#">Aspernatur </a></h4>
-			    	<p>Lorem ipsum dolor sit amet,</p>
+			    	<h4><a href="#">MALAY </a></h4>
+			    	<p>DATABASE,</p>
 			    </div>
 			 </li>
 	       </ul>
@@ -193,8 +193,8 @@ $(document).ready(function(){
 					</div>
 			    </figure>
 			    <div class="desc">
-			    	<h4><a href="#">Temporibus</a></h4>
-			    	<p>Lorem ipsum dolor sit amet,</p>
+			    	<h4><a href="#">RESHMA</a></h4>
+			    	<p>Javasript,</p>
 			    </div>
 			 </li>
 	       </ul>
@@ -211,8 +211,8 @@ $(document).ready(function(){
 					</div>
 			    </figure>
 			    <div class="desc">
-			    	<h4><a href="#">Serferendis</a></h4>
-			    	<p>Lorem ipsum dolor sit amet,</p>
+			    	<h4><a href="#">Ashish</a></h4>
+			    	<p>User Handler,</p>
 			    </div>
 			 </li>
 	       </ul>

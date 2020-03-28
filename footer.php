@@ -2,7 +2,7 @@
     	<div class="container">
     		<div class="col-md-4 col_2">
     			<h4>About Us</h4>
-    			<p>"projectworlds Free learning videos and free projects to Learn programming languages like C,C++,Java, PHP ,  Android,  Kotlin,  and other computer subjects like Data Structure, DBMS, SQL. etc"</p>
+    			<p>"The main purpose of this application is to facilitate matchmaking business by applying the information in the field. In this we used like C,C++,Java, PHP ,  Android,  Kotlin,  and other computer subjects like Data Structure, DBMS, SQL. etc"</p>
     		</div>
     		<div class="col-md-2 col_2">
     			<h4>Help & Support</h4>
@@ -32,7 +32,7 @@
     		</div>
     		<div class="clearfix"> </div>
     		<div class="copy">
-		      <p>Copyright © 2017 Marital . All Rights Reserved  | Design by <a href="http://projectworlds.in">projectworlds</a>
+		      <p>Copyright © 2017 Aniket Rai . All Rights Reserved  | Design by <a href="https://github.com/raianiket/Soulmate">AniketRai</a>
 </a> </p>
 	        </div>
     	</div>

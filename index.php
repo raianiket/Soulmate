@@ -44,8 +44,8 @@ $(document).ready(function(){
 <img src="wed.jpg" alt="" width="100%" height="100%">
   <div class="container">
     <div class="banner_info">
-      <h3 style="color:black; position:relative; top:-820px;left:10px;-webkit-text-stroke-width: 1px; -webkit-text-stroke-color: white;">Millions of verified Members</h3>
-      <a href="register.php" class="hvr-shutter-out-horizontal" style="position:relative; top:-820px;left:10px;">Create your Profile</a>
+      <h3 style="color:black; position:relative; top:-800px;left:8px;-webkit-text-stroke-width: 1px; -webkit-text-stroke-color: white;">Millions of verified Members</h3>
+      <a href="register.php" class="hvr-shutter-out-horizontal" style="position:relative; top:-800px;left:8px;">Create your Profile</a>
     </div>
   </div>
  
@@ -147,8 +147,8 @@ $(document).ready(function(){
 						   <img width="75" height="75" src="images/7.jpg" class="img-responsive" alt=""/>				            
 					    </figure>
 						<div class="suceess_story-content-info">
-				        	<h4><a href="#">Lorem & Ipsum</a></h4>				        	
-				        	<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form,.<a href="#">More...</a></p>
+				        	<h4><a href="#">Rahul & Reshma</a></h4>				        	
+				        	<p>The main objective of Matrimonial Web Application is to provide Grooms and Brides with excellent matchmaking experience by exploring the opportunities and resources to meet true potential partner. ,.<a href="#">More...</a></p>
 				        </div>
 				    </div>
 				</li>
@@ -161,8 +161,8 @@ $(document).ready(function(){
 						   <img width="75" height="75" src="images/8.jpg" class="img-responsive" alt=""/>				            
 					    </figure>
 						<div class="suceess_story-content-info">
-				        	<h4><a href="#">Lorem & Ipsum</a></h4>				        	
-				        	<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form,.<a href="#">More...</a></p>
+				        	<h4><a href="#">Rahul & Reshma</a></h4>				        	
+				        	<p>The main objective of Matrimonial Web Application is to provide Grooms and Brides with excellent matchmaking experience by exploring the opportunities and resources to meet true potential partner. ,.<a href="#">More...</a></p>
 				        </div>
 				    </div>
 				</li>
@@ -175,8 +175,8 @@ $(document).ready(function(){
 						   <img width="75" height="75" src="images/9.jpg" class="img-responsive" alt=""/>				            
 					    </figure>
 						<div class="suceess_story-content-info">
-				        	<h4><a href="#">Lorem & Ipsum</a></h4>				        	
-				        	<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form,.<a href="#">More...</a></p>
+				        	<h4><a href="#">Rahul & Reshma</a></h4>				        	
+				        	<p>The main objective of Matrimonial Web Application is to provide Grooms and Brides with excellent matchmaking experience by exploring the opportunities and resources to meet true potential partner. ,.<a href="#">More...</a></p>
 				        </div>
 				    </div>
 				</li>
@@ -189,8 +189,8 @@ $(document).ready(function(){
 						   <img width="75" height="75" src="images/10.jpg" class="img-responsive" alt=""/>				            
 					    </figure>
 						<div class="suceess_story-content-info">
-				        	<h4><a href="#">Lorem & Ipsum</a></h4>				        	
-				        	<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form,.<a href="#">More...</a></p>
+				        	<h4><a href="#">Rahul & Reshma</a></h4>				        	
+				        	<p>The main objective of Matrimonial Web Application is to provide Grooms and Brides with excellent matchmaking experience by exploring the opportunities and resources to meet true potential partner. ,.<a href="#">More...</a></p>
 				        </div>
 				    </div>
 				</li>
@@ -203,8 +203,8 @@ $(document).ready(function(){
 						   <img width="75" height="75" src="images/11.jpg" class="img-responsive" alt=""/>				            
 					    </figure>
 						<div class="suceess_story-content-info">
-				        	<h4><a href="#">Lorem & Ipsum</a></h4>				        	
-				        	<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form,.<a href="#">More...</a></p>
+				        	<h4><a href="#">Rahul & Reshma</a></h4>				        	
+				        	<p>The main objective of Matrimonial Web Application is to provide Grooms and Brides with excellent matchmaking experience by exploring the opportunities and resources to meet true potential partner. ,.<a href="#">More...</a></p>
 				        </div>
 				    </div>
 				</li>
@@ -217,8 +217,8 @@ $(document).ready(function(){
 						   <img width="75" height="75" src="images/12.jpg" class="img-responsive" alt=""/>				            
 					    </figure>
 						<div class="suceess_story-content-info">
-				        	<h4><a href="#">Lorem & Ipsum</a></h4>				        	
-				        	<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form,.<a href="#">More...</a></p>
+				        	<h4><a href="#">Rahul & Reshma</a></h4>				        	
+				        	<p>The main objective of Matrimonial Web Application is to provide Grooms and Brides with excellent matchmaking experience by exploring the opportunities and resources to meet true potential partner. .<a href="#">More...</a></p>
 				        </div>
 				    </div>
 				</li>
@@ -231,8 +231,8 @@ $(document).ready(function(){
 						   <img width="75" height="75" src="images/13.jpg" class="img-responsive" alt=""/>				            
 					    </figure>
 						<div class="suceess_story-content-info">
-				        	<h4><a href="#">Lorem & Ipsum</a></h4>				        	
-				        	<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form,.<a href="#">More...</a></p>
+				        	<h4><a href="#">Rahul & Reshma</a></h4>				        	
+				        	<p>The main objective of Matrimonial Web Application is to provide Grooms and Brides with excellent matchmaking experience by exploring the opportunities and resources to meet true potential partner. .<a href="#">More...</a></p>
 				        </div>
 				    </div>
 				</li>
@@ -253,7 +253,7 @@ $(document).ready(function(){
 				</div>
 				<h4 class="post-title"><a href="#">There are many variations of passages</a></h4>
 				<div class="clearfix"> </div>
-				<div class="post-content">The standard chunk of Lorem Ipsum used since the 1500s..</div>
+				<div class="post-content">Keeping our objective in mind, we have created a world-renowned online matchmaking services ..</div>
 				<a href="#" class="vertical">Read More</a>
 			  </div>
 	        </div>
@@ -270,7 +270,7 @@ $(document).ready(function(){
 				</div>
 				<h4 class="post-title"><a href="#">There are many variations of passages</a></h4>
 				<div class="clearfix"> </div>
-				<div class="post-content">The standard chunk of Lorem Ipsum used since the 1500s..</div>
+				<div class="post-content">Keeping our objective in mind, we have created a world-renowned online matchmaking services ..</div>
 				<a href="#" class="vertical">Read More</a>
 			  </div>
 	        </div>
@@ -287,7 +287,7 @@ $(document).ready(function(){
 				</div>
 				<h4 class="post-title"><a href="#">There are many variations of passages</a></h4>
 				<div class="clearfix"> </div>
-				<div class="post-content">The standard chunk of Lorem Ipsum used since the 1500s..</div>
+				<div class="post-content">Keeping our objective in mind, we have created a world-renowned online matchmaking services ..</div>
 				<a href="#" class="vertical">Read More</a>
 			  </div>
 	        </div>
@@ -345,7 +345,7 @@ $(document).ready(function(){
             	<div class="bg_left">
             		<h4>But I must explain</h4>
             		<h5>Friend of Bride</h5>
-            		<p>"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+            		<p>"•	It helps the user by providing profiles of perspective “Bride” or “Groom” and other information regarding them online..</p>
             	   <ul class="team-socials">
                     <li><a href="#"><span class="icon-social "><i class="fa fa-facebook"></i></span></a></li>
                     <li><a href="#"><span class="icon-social "><i class="fa fa-twitter"></i></span></a></li>
@@ -357,7 +357,7 @@ $(document).ready(function(){
             	<div class="bg_left">
             		<h4>But I must explain</h4>
             		<h5>Friend of Groom</h5>
-            		<p>"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+            		<p>"•	It helps the user by providing profiles of perspective “Bride” or “Groom” and other information regarding them online..</p>
             	   <ul class="team-socials">
                     <li><a href="#"><span class="icon-social "><i class="fa fa-facebook"></i></span></a></li>
                     <li><a href="#"><span class="icon-social "><i class="fa fa-twitter"></i></span></a></li>
