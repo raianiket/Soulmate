@@ -57,25 +57,25 @@ $(document).ready(function(){
      </ul>
    </div>
    <div class="grid_5">
-      <p>Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient. montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at, cursus nec, luctus a, lorem. Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. Sed laoreet aliquam leo. Ut tellus dolor, dapibus eget, elementum vel, cursus eleifend, elit.</p>
+      <p>The main objective of Matrimonial Web Application is to provide Grooms and Brides with excellent matchmaking experience by exploring the opportunities and resources to meet true potential partner. Keeping our objective in mind, we have created a world-renowned online matchmaking services Soulmate.com that will touch the souls of millions of people all over the globe..</p>
       <address class="addr row">
         <dl class="grid_4">
             <dt>Address :</dt>
             <dd>
-                8901 Nulla Pariatur, <br>
-                Ipsum, D05 87GR.
+                Lovely Professional University, <br>
+                Jalandhar,punjab
             </dd>
         </dl>
         <dl class="grid_4">
             <dt>Telephones :</dt>
             <dd>
-                +1 000 245 4578 <br>
-                +1 000 789 5478
+                7668**/*** */ <br>
+                88400******
             </dd>
         </dl>
         <dl class="grid_4">
             <dt>E-mail :</dt>
-            <dd><a href="malito:mail@demolink.org">info@matrimony.com</a></dd>
+            <dd><a href="malito:mail@demolink.org">info@soulmate.com</a></dd>
         </dl>
       </address>
     </div>
